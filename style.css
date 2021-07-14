@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+    text-align: center;
+}
+.heading {
+    background-color: blueviolet;
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    padding: 10px;
+}
+.note{
+    color: black;
+    font-size: 18px;
+}
+.btn_play{
+    margin: 10px;
+}
+canvas{
+    border: 5px solid rgb(224, 33, 176);
+    margin-top: 75px;
+}
+.img_disk{
+    width: 200px;
+    border-radius: 150px;
+    
+}
+.disk_speed{
+    margin-top: 20px;
+    float: left;
+}
+.disk_volume{
+    margin-top: 20px;
+    float: right;
+}
